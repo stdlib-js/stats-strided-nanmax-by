@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`c313ded`](https://github.com/stdlib-js/stdlib/commit/c313ded7f981c1b180883cfafe1538cb48c10fe1) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`e82e734`](https://github.com/stdlib-js/stdlib/commit/e82e734372ef1e7e3a0f39ea9fe18ef440b1fa94) - **feat:** add `stats/strided/nanmax-by` _(by Gururaj Gurram)_
 
 </details>
