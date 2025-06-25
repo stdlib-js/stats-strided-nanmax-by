@@ -236,6 +236,16 @@ console.log( v );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/stats-strided/dnanmax`][@stdlib/stats/strided/dnanmax]</span><span class="delimiter">: </span><span class="description">calculate the maximum value of a double-precision floating-point strided array, ignoring NaN values.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/max-by`][@stdlib/stats/strided/max-by]</span><span class="delimiter">: </span><span class="description">calculate the maximum value of a strided array via a callback function.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/nanmax`][@stdlib/stats/strided/nanmax]</span><span class="delimiter">: </span><span class="description">calculate the maximum value of a strided array, ignoring NaN values.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/nanmin-by`][@stdlib/stats/strided/nanmin-by]</span><span class="delimiter">: </span><span class="description">calculate the minimum value of a strided array via a callback function, ignoring NaN values.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/snanmax`][@stdlib/stats/strided/snanmax]</span><span class="delimiter">: </span><span class="description">calculate the maximum value of a single-precision floating-point strided array, ignoring NaN values.</span>
+
 </section>
 
 <!-- /.related -->
@@ -323,6 +333,14 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 [@stdlib/stats/strided/nanmax]: https://github.com/stdlib-js/stats-strided-nanmax
 
 [@stdlib/stats/strided/snanmax]: https://github.com/stdlib-js/stats-strided-snanmax
+
+<!-- <related-links> -->
+
+[@stdlib/stats/strided/max-by]: https://github.com/stdlib-js/stats-strided-max-by
+
+[@stdlib/stats/strided/nanmin-by]: https://github.com/stdlib-js/stats-strided-nanmin-by
+
+<!-- </related-links> -->
 
 </section>
 
