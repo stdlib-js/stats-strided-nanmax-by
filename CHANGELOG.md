@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-25)
+## Unreleased (2025-07-04)
 
 <section class="features">
 
@@ -16,12 +16,23 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`98e8f6b`](https://github.com/stdlib-js/stdlib/commit/98e8f6bfbe48aa24003710ed87ea88f5dc68977e) - allow non-numeric input arrays
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`98e8f6b`](https://github.com/stdlib-js/stdlib/commit/98e8f6bfbe48aa24003710ed87ea88f5dc68977e) - **fix:** allow non-numeric input arrays _(by Athan Reines)_
 -   [`389ba83`](https://github.com/stdlib-js/stdlib/commit/389ba83218c179d97bd3776c33f329f6b49cde8f) - **docs:** update related packages sections [(#7478)](https://github.com/stdlib-js/stdlib/pull/7478) _(by stdlib-bot)_
 -   [`9b3fd57`](https://github.com/stdlib-js/stdlib/commit/9b3fd578c7de322fd4eddb77bd4adbaa391c2da6) - **docs:** update related packages sections [(#7313)](https://github.com/stdlib-js/stdlib/pull/7313) _(by stdlib-bot, Athan Reines)_
 -   [`22f79a3`](https://github.com/stdlib-js/stdlib/commit/22f79a34bf0ba067ceb9b016b8e1717b265fbb3f) - **refactor:** update paths _(by Gururaj Gurram)_
