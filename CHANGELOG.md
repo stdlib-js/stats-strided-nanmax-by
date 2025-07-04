@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`643a522`](https://github.com/stdlib-js/stdlib/commit/643a522e06a09ad448f5c9eafa355e48b0faefd4) - **docs:** update parameter descriptions _(by Athan Reines)_
 -   [`98e8f6b`](https://github.com/stdlib-js/stdlib/commit/98e8f6bfbe48aa24003710ed87ea88f5dc68977e) - **fix:** allow non-numeric input arrays _(by Athan Reines)_
 -   [`389ba83`](https://github.com/stdlib-js/stdlib/commit/389ba83218c179d97bd3776c33f329f6b49cde8f) - **docs:** update related packages sections [(#7478)](https://github.com/stdlib-js/stdlib/pull/7478) _(by stdlib-bot)_
 -   [`9b3fd57`](https://github.com/stdlib-js/stdlib/commit/9b3fd578c7de322fd4eddb77bd4adbaa391c2da6) - **docs:** update related packages sections [(#7313)](https://github.com/stdlib-js/stdlib/pull/7313) _(by stdlib-bot, Athan Reines)_
