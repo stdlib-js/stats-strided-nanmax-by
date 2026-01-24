@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-04)
+## Unreleased (2026-01-24)
 
 <section class="features">
 
@@ -32,6 +32,8 @@
 
 <details>
 
+-   [`90da141`](https://github.com/stdlib-js/stdlib/commit/90da141063d7deb9af83a387dc4bbd27b73e8095) - **chore:** remove exports comments _(by Philipp Burckhardt)_
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`643a522`](https://github.com/stdlib-js/stdlib/commit/643a522e06a09ad448f5c9eafa355e48b0faefd4) - **docs:** update parameter descriptions _(by Athan Reines)_
 -   [`98e8f6b`](https://github.com/stdlib-js/stdlib/commit/98e8f6bfbe48aa24003710ed87ea88f5dc68977e) - **fix:** allow non-numeric input arrays _(by Athan Reines)_
 -   [`389ba83`](https://github.com/stdlib-js/stdlib/commit/389ba83218c179d97bd3776c33f329f6b49cde8f) - **docs:** update related packages sections [(#7478)](https://github.com/stdlib-js/stdlib/pull/7478) _(by stdlib-bot)_
@@ -50,10 +52,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gururaj Gurram
+-   Philipp Burckhardt
 
 </section>
 
