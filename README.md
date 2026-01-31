@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import nanmaxBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-nanmax-by@deno/mod.js';
+import nanmaxBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-nanmax-by@v0.1.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { ndarray } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-nanmax-by@deno/mod.js';
+import { ndarray } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-nanmax-by@v0.1.0-deno/mod.js';
 ```
 
 #### nanmaxBy( N, x, strideX, clbk\[, thisArg] )
@@ -196,7 +196,7 @@ var v = nanmaxBy.ndarray( 3, x, 1, x.length-3, accessor );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@deno/mod.js';
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@deno/mod.js';
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-bernoulli@deno/mod.js';
-import nanmaxBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-nanmax-by@deno/mod.js';
+import nanmaxBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-nanmax-by@v0.1.0-deno/mod.js';
 
 function rand() {
     if ( bernoulli( 0.8 )< 0.2 ) {
